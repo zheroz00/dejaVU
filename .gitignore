@@ -26,7 +26,6 @@ build/
 
 # Project specific
 screenshots/
-assets/
 GEMINI.md
 CLAUDE.md
 settings.local.json
