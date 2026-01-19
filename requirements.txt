@@ -1,0 +1,8 @@
+pywin32
+psutil
+PySide6
+google-generativeai
+Pillow
+pyinstaller
+pynput
+python-dotenv

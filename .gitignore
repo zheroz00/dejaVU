@@ -1,0 +1,37 @@
+# Activity log (user data)
+/activity_log.json
+
+# Python
+/__pycache__
+*.pyc
+__pypackages__/
+
+# Virtual environments
+.venv/
+.venv_build/
+
+# Environment and secrets
+.env
+
+# Build artifacts
+dist/
+build/
+*.spec
+
+# IDE
+.vscode/
+
+# Claude Code
+.claude/
+
+# Project specific
+screenshots/
+assets/
+GEMINI.md
+CLAUDE.md
+settings.local.json
+
+# Settings files (now stored in ~/.dejavu)
+hotkey_settings.json
+pinned_apps.json
+window_state.json
